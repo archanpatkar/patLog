@@ -1,2 +1,2 @@
-# patlog.py
+# patlog
 ### A Loyal Logger Framework written in Python
